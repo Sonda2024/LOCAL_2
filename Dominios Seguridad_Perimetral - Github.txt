@@ -617,3 +617,5 @@ xpie348.online
 protocolovirtual.org
 certificadosuporte.com.br
 amanur.com
+tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion
+http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion
