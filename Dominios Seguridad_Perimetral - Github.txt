@@ -651,3 +651,4 @@ vscode-settings-config-md.vercel.app
 default-configuration.vercel.app
 ext-checkedin.vercel.app
 data-kappa.vercel.app
+ciderurginsx.com
