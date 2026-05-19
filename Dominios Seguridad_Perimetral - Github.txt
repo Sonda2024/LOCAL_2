@@ -693,3 +693,5 @@ shankar.woremix.icu
 anythinghere.woremix.icu
 lenwillfilenetwork.com
 mason-cars.autos
+infra-telemetry.com
+cloudservbr.com
