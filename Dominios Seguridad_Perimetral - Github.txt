@@ -967,3 +967,12 @@ docs.dissect.tools
 msdeliverycontent.com
 intelcloudinsights.com
 azureglobalaccelerator.com
+file.name
+event.name
+aes-secure.net
+akamaicloud.com
+devicelinkintel.com
+docs.dissect.tools
+msdeliverycontent.com
+intelcloudinsights.com
+azureglobalaccelerator.com
