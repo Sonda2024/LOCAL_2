@@ -3805,3 +3805,30 @@ bsc-dataseed3.ninicoin.io boletin-449-26/09/2026
 bsc-dataseed4.ninicoin.io boletin-449-26/09/2026
 uasputnik.com boletin-447-26/09/2026
 fsputnik.com boletin-447-26/09/2026
+
+cdn9.sendibt1.com    # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026  
+cdn4.sendibt1.com    # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+cdn3.sendibt1.com    # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+cdn11.sendibt1.com   # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+cdn.sendibt1.com     # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+chat.chat5188.tk     # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026 
+cache.c2iznja.com    # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+apis.chat5188.tk     # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+api08.chat5188.tk    # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026  
+api06.chat5188.tk    # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+turbo.c2iznja.com    # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+newdma.c2iznja.com   # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+live-hk.c2iznja.com  # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+base64.c2iznja.com   # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+api80.c2iznja.com    # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+www.ayuthayatech.com # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+oskey.com            # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026 
+registermymfa.com    # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026 
+passkey-mfa.com      # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026 
+mfaregister.com      # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+oskeysetup.com       # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+secure-passkey.com   # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+oskeyconnect.com     # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+assignpasskey.com    # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+setpasskey.com       # Dexon TI 1178467-20260925 - Boletin N° 444 24-09-2026
+
