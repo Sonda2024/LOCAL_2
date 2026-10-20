@@ -4291,3 +4291,4 @@ docker.loveboy.xyz
 install.loveboy.xyz
 ipapi2.peaceman.cc
 log2.peaceloving.xyz
+malwarescan.xyz	1187559
